@@ -1,0 +1,146 @@
+{
+  "purpose": "New prospective experiment deliverables; historical manifest preserved separately",
+  "package_sha256": "ffccb8a45f9c09d4c76646887dc695c7735f5283d252d8bebea342e0f46cc159",
+  "files": {
+    "Beyond Strategy Types/Beyond_Strategy_Types_PCC_empirical_v4.tex": {
+      "sha256": "c9e5e90a4ce5fb12378f5b39ec948e0c9c8c8193f0d1ce15090b5911ef06fb05",
+      "bytes": 68554
+    },
+    "Beyond Strategy Types/Beyond_Strategy_Types_PCC_evidence_audited_v3.tex": {
+      "sha256": "d05aa7f3b2c4f836a1619403fe8ea264e8aee8424dd3d6e728b837453251e30c",
+      "bytes": 63141
+    },
+    "Beyond Strategy Types/SCIENTIFIC_AUDIT.md": {
+      "sha256": "b2e2b8ceaa2d96b42a3cb01724b4b8dfb107f797af56a607e75c6583fa26dc7a",
+      "bytes": 2609
+    },
+    "Beyond Strategy Types/evidence_manifest.json": {
+      "sha256": "0ccf5d65b6c7dd2c02fc19903490f763aec350d4f491aaaec634f741cebc67a5",
+      "bytes": 4697
+    },
+    "Beyond Strategy Types/reviewer_criticism_matrix.csv": {
+      "sha256": "5a8df5816a64ef8555719e02d56932902ba96d35633a2898d275a39a86e1f421",
+      "bytes": 7186
+    },
+    "Beyond Strategy Types/validate_audit.py": {
+      "sha256": "a0d7915fce3f2a31acda8195be61328ea07941158307367c53074172e5d5d289",
+      "bytes": 924
+    },
+    "code/docs/beyond-strategy-protocol-v1.md": {
+      "sha256": "c3d4eb6f5be5430bea7d67e2a38c9dde9b8cedb57e9cdade50364f216a03096a",
+      "bytes": 7596
+    },
+    "code/pcc_poker/__init__.py": {
+      "sha256": "5e3809b5c6bdae0c85512d6946ca2c2e2fb72114add3b3bc12d6c0879bb45b3e",
+      "bytes": 59
+    },
+    "code/pcc_poker/behavioral.py": {
+      "sha256": "f36c16b56ac0d4bd10c129bc6bf71d70587c75a8ca991b169fdeeda9d4fe65c6",
+      "bytes": 12479
+    },
+    "code/pcc_poker/blind_discriminant.py": {
+      "sha256": "7f60ac83add61108459612ec019a9f735fe3f7c6db81fad7666ec54f537f36b2",
+      "bytes": 23238
+    },
+    "code/pcc_poker/blind_leduc_reference.py": {
+      "sha256": "b8a84787facb04fc67bfe0de8591f62b9f62a8c26dfc58ac905ed0c34b021ae4",
+      "bytes": 4276
+    },
+    "code/pcc_poker/engine.py": {
+      "sha256": "a407d0649705dc891c64fa4a79734029005dbe2084633ff285d57f223346670c",
+      "bytes": 5622
+    },
+    "code/pcc_poker/leduc_cfr.py": {
+      "sha256": "95bce9e6e02a0478531a0baa20f047922fb27280566bd8a15b927e44dfd02ea8",
+      "bytes": 8399
+    },
+    "code/pcc_poker/policies.py": {
+      "sha256": "4ac1da49039ddfe4a7d06afe60170f383d4d43cd8fad1028ae16b1a44f3b11bd",
+      "bytes": 4937
+    },
+    "code/pcc_poker/value_floor.py": {
+      "sha256": "981a87a08d6eef3ae5c441551ba7be34de088de903b72bb091ca8c58c2c91844",
+      "bytes": 4251
+    },
+    "code/reproduce.py": {
+      "sha256": "87f3cc5c168f03b611058b5eb5bacd6a0a31a5658c8590b0a3e3958e4d868b8b",
+      "bytes": 1161
+    },
+    "code/requirements.txt": {
+      "sha256": "7bd6b8946940b79948c548c8048e545684b91c8edc9444d8dfc0c8f76a97c0a7",
+      "bytes": 13
+    },
+    "code/tests/test_blind_discriminant.py": {
+      "sha256": "5e71e26a15271cccbd7645758a8876c7fc8662d4fe140cf3b7666cb4e629f74c",
+      "bytes": 5637
+    },
+    "compilation_status.json": {
+      "sha256": "74ee29d4aaf938139fba5d4f0e05b7c691a345da964fcf355859701801fbe8ea",
+      "bytes": 177
+    },
+    "empirical_validation_report.md": {
+      "sha256": "dc10717e3157d6291fe52422f557c32018eab04fa362e79ebcdf6f7f9a8c4fc3",
+      "bytes": 14805
+    },
+    "experiment/chaos_best_response.json": {
+      "sha256": "8596c62d9c7b7db4498168566260377efed297af6d9a90d1f35e48b40c23d138",
+      "bytes": 184194
+    },
+    "experiment/events.jsonl": {
+      "sha256": "758a5e79251f45ed671a30686a920a686667c0666a7869b146f331113682b056",
+      "bytes": 2526
+    },
+    "experiment/freeze.json": {
+      "sha256": "2b32fb49f962676ccd52c47821a55b02e2b0c8356ad01246af9a4a2755967c33",
+      "bytes": 2629
+    },
+    "experiment/historical_before.json": {
+      "sha256": "2f5ad6b040bedd9bf68b46ca711a6b97fb495ff6395387eb862504a4724a9aba",
+      "bytes": 6709
+    },
+    "experiment/measurements.json": {
+      "sha256": "09bce54955a2f7c2eeb3a4e006a0d74bbcd5971f0d2cdb703eedbf695d8c28d7",
+      "bytes": 130768
+    },
+    "experiment/policies.json": {
+      "sha256": "193c41e39539fdc910f5fad3dc086fd946d0e8511a2fea6a4fcb1de2384b7db9",
+      "bytes": 6778866
+    },
+    "experiment/predictions_frozen.json": {
+      "sha256": "8ff57beb6fe4e666fa7c274314209bbb791c8a4e446265f9d87acfe1449a6448",
+      "bytes": 22424
+    },
+    "experiment/report.json": {
+      "sha256": "4573b01f8ab9d3e09496bf9249c3003f92fd7d5bede1c12e4fb79909d0e7b33a",
+      "bytes": 26777
+    },
+    "experiment/sealed_identity.json": {
+      "sha256": "4ea69755f282ecd60581dc2fef6e292ea9f3f8e41d5fa800544baa9d5686e181",
+      "bytes": 5091
+    },
+    "measurement_overlap.json": {
+      "sha256": "d2073af902f0a9cebeb0ffebdff68233a25510080a248d77fd27cca6c428be87",
+      "bytes": 1559
+    },
+    "reproduction_checks.json": {
+      "sha256": "bc02900264b76648b531a7ebf200e85d0aad9aeb9bde161f4f7d215ec7d88d93",
+      "bytes": 159
+    },
+    "reviewer_criticism_matrix_v4.csv": {
+      "sha256": "7a52b1ad07d2d9cddd3da80e521857f1ef30c6e06111508210ffae3cac780ca2",
+      "bytes": 12797
+    },
+    "source_verification.json": {
+      "sha256": "fae357900bf696025f804031ad68be2418bcc79a32dbc9150b2aa2e9aa6149a5",
+      "bytes": 456
+    },
+    "transfer_results.csv": {
+      "sha256": "085d30df6d5586dbf380c1c42bba7e8bcdd87e056232c71e484947ceb28235b6",
+      "bytes": 1128
+    },
+    "verification_summary.json": {
+      "sha256": "23f3b280727fa2f3ba2461023e24e61e48ce0ad08d2b5e8310d7b3fcf0f67b68",
+      "bytes": 616
+    }
+  }
+}
